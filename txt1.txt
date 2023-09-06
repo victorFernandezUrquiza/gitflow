@@ -1,1 +1,3 @@
-this is a text for test my knowladge of today about the rebase command 
+this is a text for test my knowladge of today about the rebase command.
+
+this is a second line por push a new change to main branch, after that rebase the rebasetest branch  
